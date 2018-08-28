@@ -1,0 +1,43 @@
+.split-section {
+    display: flex;
+    flex-direction: row;
+    height: 80vh;
+}
+.nav-bar {
+    background-color: #045184;
+    height: 125px;
+}
+.container {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content {
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+.content p {
+    font-size: 1.25em;
+    text-align: center;
+}
+.large-image {
+    width: 50%;
+    height: 100%;
+}
+.blue-background {
+    background-color: #045184
+}
+.header {
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+}
+.blue-text {
+    color: #045184;
+}
+.white-text {
+    color: #fff
+}
